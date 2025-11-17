@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josephine Anie-Amoah</h1>
-<h3 align="center">A passionate QA tester from Ghana</h3>
+<h3 align="center">A passionate QA tester and Data Analyst from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephineasaa&label=Profile%20views&color=0e75b6&style=flat" alt="josephineasaa" /> </p>
 
