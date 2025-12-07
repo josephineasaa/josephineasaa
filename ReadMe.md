@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephineasaa" alt="josephineasaa" /></a> </p>
 
-- 🔭 I’m currently working on [SalAfric](https://github.com/josephineasaa/clarus.git)
+- 🔭 I’m currently working on [SalAfric](https://github.com/josephineasaa/clarus.git) as a Software tester
 
-- 🌱 I’m currently working on *RSS*
+- 🌱 I’m currently working on *RSS* as a Software Tester
 
-- 👯 I’m currently working on [GRA Fundmanager](http://fundmanager.capewesley.net)
+- 👯 I’m currently working on [GRA Fundmanager](http://fundmanager.capewesley.net) as a Business Analyst and QA
 
-- 🤝 I’m currently working on *LynkUp*
+- 🤝 I’m currently working on *LynkUp* as a Business Analyst and QA
+  
+- 🤝 I worked on [RegAuth](http://app.theregtracker.com/) and Ghanaboard as a Data Scientist
 
 - 📫 How to reach me *anieamoahjosephine@gmail.com*
 
